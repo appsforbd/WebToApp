@@ -1,5 +1,9 @@
 # WebToApp
 
+<div align="center">
+	<img src="./app/src/main/res/drawable-xhdpi/app_icon.png" width="128" alt="logo">
+</div>
+
 Simple WebView App for Android Studio.
 
 ## Screenshots
