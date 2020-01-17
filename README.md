@@ -3,8 +3,8 @@
 Simple WebView App for Android Studio.
 
 ## Screenshots
-| Splash Screen    | Pages List   | Details |
-| :-------------: | :-------------: |:-------------: | :-------------: |
+| Splash Screen | Pages List | Details |
+| :-------------: | :-------------: |:-------------: |
 | ![Splash Screen](./screenshots/WebView-app-screenshot-0.png) | ![Pages List](./screenshots/WebView-app-screenshot-1.png) | ![Details](./screenshots/WebView-app-screenshot-2.png) |
 
 ## Build
